@@ -1,10 +1,10 @@
 # Payloads All The Things
 
-**I cloned this from another source and it is not my original work. I just wanted to have everything in one safe 
-And didn't want mine to be a fork. I clones it so I could share with my future followers without having to remember
+**I cloned this from another source and it is not my original work. I just wanted to have everything in one place
+And didn't want mine to be a fork. I cloned it so I could share with my future followers without having to remember
 The repo on the other person's site. I DO NOT CLAIM THIS AS MY OWN. If I'm in the wrong in any way, please let me 
-Know. I'm just very interested in wep app security and pentesting. This is going to be a master list, and I will 
-Upon it to really make it my own. Thanks to the original owner swisskyrepo!! You rock!!! (:
+Know. I'm just very interested in web app security and pentesting. This is going to be a master list, and I will 
+Add to it to really make it my own. Thanks to the original owner swisskyrepo!! You rock!!! (:
 
 A list of useful payloads and bypasses for Web Application Security.
 Feel free to improve with your payloads and techniques !
